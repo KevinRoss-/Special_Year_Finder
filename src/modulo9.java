@@ -8,7 +8,7 @@
  * Then the program will then display the number of unique years via their number system at the end.
  *
  * I did this because of an off hand calculation about the year 2016, which turns out to be the first
- *      year of it's kind to ever happen. Not to happen again till the year 7056.
+ *      year of its kind to ever happen. Not to happen again till the year 7056.
  *
  * @author Kevin Falting
  * @version 1.0
